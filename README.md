@@ -27,8 +27,6 @@ are here for your convenience.
 On the upper right of this webpage, there is a button which says "Fork." Click
 that button and (if asked) select your username as the destination.
 
-{ TODO try this out and make sure that it's intuitive how to get to the repo }
-
 Now you have your own copy of the code ready to go!
 
 ### 2. Edit `index.html`
